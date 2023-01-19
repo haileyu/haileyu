@@ -1,11 +1,9 @@
-#haileyu.github.io
+# haileyu.github.io
 
-#hey there! 👋
+### hey there! 👋
+### this is my ATLS repo!  
 
-#ATLS-2200 repo... 
-
-'''
-in-class assignments:
+## in-class assignments:
 * ICA1
 * ICA2
 * ICA3
@@ -21,10 +19,8 @@ in-class assignments:
 * ICA13
 * ICA14
 * ICA15
-'''
 
-'''
-weekly assignments:
+## weekly assignments:
 * WA1
 * WA2
 * WA3
@@ -40,4 +36,3 @@ weekly assignments:
 * WA13
 * WA14
 * WA15
-'''
