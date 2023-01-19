@@ -26,7 +26,7 @@
 * ICA15
 
 ## weekly assignments...
-* WA1
+* [WA1](https://haileyu.github.io/haileyu/wa/wa1)
 * WA2
 * WA3
 * WA4
