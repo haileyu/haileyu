@@ -3,6 +3,11 @@
 ### hey there! 👋
 ### this is my ATLS-2200 repo!  
 
+## projects...
+* HTML
+* CSS 
+* JS 
+
 ## in-class assignments...
 * ICA1
 * ICA2
