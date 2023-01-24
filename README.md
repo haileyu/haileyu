@@ -9,8 +9,8 @@
 * JS 
 
 ## in-class assignments...
-* [ICA1](https://docs.google.com/document/d/19VB0m71bPpvUYGLXx6BjO1nZytHKI3OTk41NM46Nct0/edit?usp=sharing)
-* ICA2
+* [ICA1](https://drive.google.com/file/d/1rYVwrHPyzyaKP7_86Z25fzsR662f8jTk/view?usp=sharing)
+* [ICA2](https://drive.google.com/file/d/1qQ6e85LZ79_b_ixmbHGV4i82BM0JSJxI/view?usp=sharing)
 * ICA3
 * ICA4
 * ICA5
