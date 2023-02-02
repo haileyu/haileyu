@@ -11,7 +11,8 @@
 ## in-class assignments...
 * [ICA1](/ica/hu-ica1.pdf)
 * [ICA2](/ica/hu-ica2.pdf)
-* ICA3
+* [ICA3-A](https://haileyu.github.io/haileyu/ica/hu-ica3a)
+* [ICA3-B](https://haileyu.github.io/haileyu/ica/hu-ica3b)
 * ICA4
 * ICA5
 * ICA6
