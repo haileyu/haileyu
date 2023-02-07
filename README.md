@@ -4,7 +4,7 @@
 ### this is my ATLS-2200 repo!  
 
 ## projects...
-* HTML
+* [HTML](https://haileyu.github.io/haileyu/html-midterm/page1)
 * CSS 
 * JS 
 
@@ -13,7 +13,7 @@
 * [ICA2](/ica/hu-ica2.pdf)
 * [ICA3-A](https://haileyu.github.io/haileyu/ica/hu-ica3a)
 * [ICA3-B](https://haileyu.github.io/haileyu/ica/hu-ica3b)
-* ICA4
+* [ICA4](https://haileyu.github.io/haileyu/ica/hu-ica4)
 * ICA5
 * ICA6
 * ICA7
