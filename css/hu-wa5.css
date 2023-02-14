@@ -1,0 +1,18 @@
+/*Formatting for my overlay page, surrounding the 2020 Summer Olympics swimming.*/
+
+body{
+    background-color: ghostwhite;
+    background-size:100%;
+    font-family: monospace;
+    padding: 1em;
+    margin: 0;
+    border-top: 1mm solid goldenrod;
+    border-bottom: 1mm solid goldenrod;
+    background-image: url(../img/swimdude.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+p{
+    font-size: large;
+    line-height: 35px;
+}
