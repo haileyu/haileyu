@@ -14,7 +14,7 @@
 * [ICA3-A](https://haileyu.github.io/haileyu/ica/hu-ica3a)
 * [ICA3-B](https://haileyu.github.io/haileyu/ica/hu-ica3b)
 * [ICA4](https://haileyu.github.io/haileyu/ica/hu-ica4)
-* ICA5
+* [ICA5](https://haileyu.github.io/haileyu/ica/hu-ica5)
 * ICA6
 * ICA7
 * ICA8
