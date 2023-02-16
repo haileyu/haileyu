@@ -1,29 +1,37 @@
 /*Formatting for my overlay page, surrounding the 2020 Summer Olympics swimming.*/
 
-body{
-  background-color: ghostwhite;
-  font-family: monospace;
-  padding: 1em;
+html{
+  height: 100%;
   margin: 0;
+  padding: 0;
+}
+body{
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: ghostwhite;
+  background-color: ghostwhite;
   background-image: url(../img/swimdude.jpg);
   background-size: 100%;
   background-repeat: no-repeat;
-  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  color: ghostwhite;
-  font-size: large;
 }
-.logo{
-  max-width: 100px;
+.logo img{
   position: absolute;
-  right: 10px;
-  top: 10px;
-}
-.score{
-  position: absolute;
+  top: 50px;
   left: 10px;
-  top: 1px;
+  max-height: auto;
+  max-width: 80px;
+}
+.event p{
+  position: absolute;
+  top: 40px;
+  right: 10px;
   background: linear-gradient(to top, rgba(26,39,90,1),rgba(0,0,0,0.1));
-  padding: 2mm;
-  border: solid #1a275a .5mm;
-  border-radius: 10px;
+  border-radius: 4px;
+  padding: 5px;
+}
+.caption p{
+  color: rgba(26,39,90,1);
+  text-align: center;
+  position: relative;
+  background: gold;
+  padding: 3px;
 }
