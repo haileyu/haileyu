@@ -13,12 +13,15 @@ body{
   font-size: large;
 }
 .logo{
-  size: 100%;
   max-width: 100px;
-  position: relative;
+  position: absolute;
+  right: 10px;
+  top: 10px;
 }
 .score{
   position: absolute;
+  left: 10px;
+  top: 1px;
   background: linear-gradient(to top, rgba(26,39,90,1),rgba(0,0,0,0.1));
   padding: 2mm;
   border: solid #1a275a .5mm;
