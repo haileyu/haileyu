@@ -35,7 +35,7 @@
 * [WA4](https://haileyu.github.io/haileyu/wa/wa4)
 * [WA5](https://haileyu.github.io/haileyu/wa/wa5)
 * [WA6](https://haileyu.github.io/haileyu/wa/wa6)
-* WA7
+* [WA7](https://haileyu.github.io/haileyu/wa/wa7)
 * WA8
 * WA9
 * WA10
