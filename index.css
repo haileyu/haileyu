@@ -94,7 +94,7 @@ a:hover, a:visited{
     100%{background-position:50% 0%}
 }
 
-/* media queuery */
+/* media query */
 
 @media (max-width: 500px){
     .waves{
