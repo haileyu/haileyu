@@ -8,7 +8,7 @@ body{
 h1{
     font-size: 40px;
     color:white;
-    line-height: 60px;
+    line-height: 75px;
 }
 p, li{
     font-family: "Open Sans";
@@ -37,7 +37,7 @@ a:hover, a:visited{
     animation: header-animator 30s ease infinite;
 }
 .header-inside{
-    height: 15vh;
+    height: 100px;
 }
 .flex-property{
     display: flex;
@@ -46,13 +46,12 @@ a:hover, a:visited{
 .waves{
     position: relative;
     width: 100%;
-    height: 10vh;
+    height: 120px;
     margin-bottom: -8px;
 }
 .web-content{
     position: relative;
-    top: 2vh;
-    height: 20vh;
+    top: 30px;
     background-color:white;
     align-items: center;
 }
@@ -67,8 +66,7 @@ a:hover, a:visited{
     height: auto; 
     display: flex;
     overflow-x: auto;
-    padding-top: 10vh;
-    padding-bottom: 10px;
+    padding-top: 20px;
 }
 .carousel-img{
     object-fit: cover;
@@ -80,7 +78,7 @@ a:hover, a:visited{
 /* animation */
 
 .wave-move{
-    animation: move-inf 10s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
+    animation: move-inf 25s cubic-bezier(0.55, 0.5, 0.45, 0.5) infinite;
 }
 @keyframes move-inf{
     0%{
