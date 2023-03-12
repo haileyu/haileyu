@@ -5,7 +5,7 @@
 
 ## projects...
 * [HTML](https://haileyu.github.io/haileyu/html-midterm/page1)
-* [CSS](https://haileyu.github.io/haileyu/index)
+* [CSS](https://haileyu.github.io/haileyu/css-midterm/index)
 * JS 
 
 ## in-class assignments...
