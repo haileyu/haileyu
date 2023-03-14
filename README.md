@@ -19,8 +19,7 @@
 * [ICA6-2](https://haileyu.github.io/haileyu/ica/ica6/ica6-part2)
 * [ICA6-3](https://haileyu.github.io/haileyu/ica/ica6/ica6-part3)
 * [ICA7](https://haileyu.github.io/haileyu/ica/hu-ica7)
-* ICA8
-* ICA9
+* [ICA9](https://haileyu.github.io/haileyu/ica/hu-ica9)
 * ICA10
 * ICA11
 * ICA12
@@ -36,7 +35,6 @@
 * [WA5](https://haileyu.github.io/haileyu/wa/wa5)
 * [WA6](https://haileyu.github.io/haileyu/wa/wa6)
 * [WA7](https://haileyu.github.io/haileyu/wa/wa7)
-* WA8
 * WA9
 * WA10
 * WA11

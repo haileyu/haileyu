@@ -1,0 +1,21 @@
+body{
+    font-size: 20px;
+    font-family: monospace; 
+}
+#button{
+    position: relative;
+    border: 2px solid black;
+    height: auto;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color:aliceblue; 
+    border-color:paleturquoise;
+}
+#move_text{
+    position: relative;
+}
+#heart{
+    position: relative;
+}
